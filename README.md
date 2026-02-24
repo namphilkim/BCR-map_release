@@ -3,7 +3,7 @@ Tool for visualizing the BCR repertoire into an interactive image
 
 Dependencies of BCRmap
 
-mpld3,matplotlib,numpy,BCR-SORT
+mpld3,matplotlib,numpy,BCR-SORT, pytorch
 
 How to run BCRmap
 
